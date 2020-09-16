@@ -13,8 +13,27 @@ html,body{
 
 
 
-*{
+*, ::before, ::after{
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
  box-sizing: border-box; 
+}
+
+
+body{
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.8rem;
+  font-size: ;
+  line-height: ;
+}
+
+a{
+  text-decoration: none;
+}
+
+a, a:hover{
+  -webkit-transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+
 }
