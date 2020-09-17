@@ -1,4 +1,7 @@
 import React from 'react';
+import Directory from './../Components/directory';
+
+
 
 const Homepage = props =>{
     return(

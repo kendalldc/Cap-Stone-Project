@@ -23,8 +23,8 @@ html,body{
 body{
   font-family: 'Oswald', sans-serif;
   font-size: 1.8rem;
-  font-size: ;
-  line-height: ;
+  font-weight: 400 ;
+  line-height: 1;
 }
 
 a{
